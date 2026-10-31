@@ -17,7 +17,7 @@ Bu çalışmada `GradientBoostingRegressor` kullanılarak araç fiyatı tahmini 
 | MAE | 58.003 TL |
 | RMSE | 82.105 TL |
 
-Bu değerler notebook'a kaydedilmiş son çalıştırmanın çıktılarıdır. Notebook yeniden çalıştırıldığında veri veya paket sürümlerine bağlı olarak sonuçlar değişebilir. Proje raporundaki bir bölümde R² değeri 0,955 olarak geçtiğinden, burada notebook çıktısı esas alınmıştır.
+Bu değerler notebook'a kaydedilmiş son çalıştırmanın çıktılarıdır. Notebook yeniden çalıştırıldığında veri veya paket sürümlerine bağlı olarak sonuçlar değişebilir. 
 
 ## Depo içeriği
 
@@ -27,7 +27,6 @@ Bu değerler notebook'a kaydedilmiş son çalıştırmanın çıktılarıdır. N
 | `araba.csv` | Notebook'un kullandığı araç ilanı verisi |
 | `requirements.txt` | Python paketleri |
 
-Akademik proje raporu kişisel ve öğrenci bilgileri içerdiği için depoya dahil edilmemiştir.
 
 ## Çalıştırma
 
